@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hashir-tech.github.io/testreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://hashir-tech.github.io/testreact/static/js/main.6b029b8e.chunk.js",
+    "main.js.map": "https://hashir-tech.github.io/testreact/static/js/main.6b029b8e.chunk.js.map",
+    "runtime-main.js": "https://hashir-tech.github.io/testreact/static/js/runtime-main.f58f0b76.js",
+    "runtime-main.js.map": "https://hashir-tech.github.io/testreact/static/js/runtime-main.f58f0b76.js.map",
+    "static/js/2.be6b33bc.chunk.js": "https://hashir-tech.github.io/testreact/static/js/2.be6b33bc.chunk.js",
+    "static/js/2.be6b33bc.chunk.js.map": "https://hashir-tech.github.io/testreact/static/js/2.be6b33bc.chunk.js.map",
+    "index.html": "https://hashir-tech.github.io/testreact/index.html",
+    "precache-manifest.12bb1c14813525af17e083ad8bedda02.js": "https://hashir-tech.github.io/testreact/precache-manifest.12bb1c14813525af17e083ad8bedda02.js",
+    "service-worker.js": "https://hashir-tech.github.io/testreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://hashir-tech.github.io/testreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.be6b33bc.chunk.js.LICENSE.txt": "https://hashir-tech.github.io/testreact/static/js/2.be6b33bc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://hashir-tech.github.io/testreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f58f0b76.js",
+    "static/js/2.be6b33bc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6b029b8e.chunk.js"
+  ]
+}
